@@ -10,7 +10,7 @@ Drie weken geleden zijn de wijnen van D’Arenberg binnen gekomen. D’Arenberg 
 
 Er bestaat een veelheid aan bodemtypen in McLaren Vale, de een iets vruchtbaarder dan de ander. Over het algemeen echter is de bodem vrij arm, wat de wijnstok dwingt om diep de bodem in te gaan op zoek naar water en voedingsstoffen. Dit harde werken vertaalt zich naar lage opbrengsten, veel concentratie en een goede complexiteit van de wijnen.
 
-![alt wijn]({{site.baseurl}}/_posts/prin aloxe nieuw.jpg)
+![alt wijn]({{site.baseurl}}/assets/prin aloxe nieuw.jpg)
 
 
  € 12,95
