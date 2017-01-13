@@ -20,9 +20,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wijnvanmartijn
-github_username:  
+github_username:
 google_analytics: UA-NNNNNNNN-N
-
+collections:
+  wijnen :
+    output: true
+    permalink: /:path/
+  soorten :
+    output: true
+    permalink: /wijn/:path/
 # Build settings
 markdown: kramdown
 theme: minima
