@@ -5,9 +5,9 @@ layout: default
 <div class="home">
   <ul class="post-list">
     {% for post in site.wijnen %}
-      <li>
+      <li class='wijn'>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-        <p>{{post.content}}</p>
+        {{post.content}}
       </li>
     {% endfor %}
   </ul>
