@@ -4,16 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Wijnen</h1>
+  <h1 class="page-heading">{{page.slug}}</h1>
 
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-        <p>{{post.content}}</p>
-      </li>
+    {% for post in site.wijnen %}
+      {% if post.soort == page.slug %}
+        <li>
+          <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+          <p>{{post.content}}</p>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
