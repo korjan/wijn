@@ -6,7 +6,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.wijnen %}
       <li class='wijn'>
-        <img src={{post.image}}/>
+        <img src="{{post.image | relative_url }}"/>
         <h2 class="typl8-delta">{{ post.title | escape }}</h2>
         {{post.content}}
         <aside class="typl8-pull-quote">
