@@ -1,8 +1,12 @@
-<img src="{{post.image | relative_url }}"/>
+{% if post.image %}
+  <img src="{{post.image | relative_url }}"/>
+{%endif %}
 <h2 class="typl8-delta">{{ post.title | escape }}</h2>
 {{post.content}}
+{% if  post.quote != "" %}
 <aside class="typl8-pull-quote">
   <blockquote>
     <p>{{post.quote}}</p>
   </blockquote>
 </aside>
+{% endif %}

@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   <ul class="post-list">
     {% for post in site.wijnen %}
-      {% if page.slug and post.soort == page.slug %}
+      {% if post.soort == page.slug or page.url == "/" %}
         <li class='wijn'>
           {% include wijn.html include=post %}
         </li>
