@@ -1,5 +1,5 @@
 ---
-layout: wijn
+layout: default
 title:  "Aloxe Corton 2014"
 soort: rood
 image: "assets/aloxe.jpg"

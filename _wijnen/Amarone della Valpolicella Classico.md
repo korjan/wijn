@@ -1,5 +1,5 @@
 ---
-layout: wijn
+layout: default
 title:  "Amarone della Valpolicella Classico"
 soort: rood
 image: /assets/amarone.jpg

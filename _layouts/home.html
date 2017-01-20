@@ -5,16 +5,11 @@ layout: default
 <div class="home">
   <ul class="post-list">
     {% for post in site.wijnen %}
-      <li class='wijn'>
-        <img src="{{post.image | relative_url }}"/>
-        <h2 class="typl8-delta">{{ post.title | escape }}</h2>
-        {{post.content}}
-        <aside class="typl8-pull-quote">
-          <blockquote>
-            <p>{{post.quote}}</p>
-          </blockquote>
-        </aside>
-      </li>
+      {% if page.slug and post.soort == page.slug %}
+        <li class='wijn'>
+          {% include wijn.html include=post %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

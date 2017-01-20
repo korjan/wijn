@@ -1,4 +1,4 @@
 ---
-layout: category
+layout: home
 name: "Witte wijn"
 ---
