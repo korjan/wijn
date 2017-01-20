@@ -14,6 +14,7 @@
       </span>
 
       <div class="trigger">
+        <a class="page-link" href="{{ 'over-martijn' | relative_url }}">Over ons</a>
         {% for my_page in site.soorten %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
