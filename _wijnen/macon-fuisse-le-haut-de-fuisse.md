@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Mâcon-Fuissé 'Le Haut de Fuissé'
+title:  "Mâcon-Fuissé 'Le Haut de Fuissé'"
 soort: wit
 image: /assets/amarone.jpg
 quote: "Pierre Vessigaud is een voorbeeld voor jonge wijnmakers in de streek. Zijn Bourgognes zijn een must voor de liefhebber van goede Chardonnay"
