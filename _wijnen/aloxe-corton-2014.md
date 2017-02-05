@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Aloxe Corton 2014"
+title:  "Aloxe-Corton - Domaine Prin"
 soort: rood
 image: "assets/aloxe.jpg"
 ---
