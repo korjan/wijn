@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Domaine Vessigaud - Vieilles vignes - 2014"
+title:  "Pouilly-Fuissé 'Vieilles Vignes' - Domaine Vessigaud"
 soort: wit
 image: "assets/vessigaud.jpg"
 ---
