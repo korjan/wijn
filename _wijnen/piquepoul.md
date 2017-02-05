@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Piquepoul"
+title:  "Piquepoul - Cave Henri de Richemer"
 soort: wit
 image: /assets/amarone.jpg
 quote: "Krachtige stevige wijn, die het bij wildgerechten uitstekend doet. Door het zachte karakter is het echter ook gewoon bij een eenvoudige hapje toch intens genieten!"
