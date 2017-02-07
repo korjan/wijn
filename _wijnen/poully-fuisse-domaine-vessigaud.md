@@ -3,10 +3,8 @@ layout: default
 title:  "Pouilly-Fuissé 'Vieilles Vignes' - Domaine Vessigaud"
 soort: wit
 image: "assets/vessigaud.jpg"
----
+quote: "Krachtige stevie karakter is woon bij een eenvoudige hapje toch intens genieten!"
 
-Drie weken geleden zijn de wijnen van D’Arenberg binnen gekomen. D’Arenberg Winery, met aan het hoofd Chester Osborn, is zonder meer een van de beste en meest onderscheiden Wineries van Australië. Het bedrijf is gevestigd in de zuidelijke regio McLaren Vale, waar men een mediterraan klimaat met hete droge zomers en natte koude winters heeft.
+<p class="typl8-drop-cap">omschrijving
 
-16,00 euro
-
-[Bestel](/bestel)
+</p> € 16
