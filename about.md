@@ -12,7 +12,7 @@ Welkom op mijn website. Na bijna 10 jaar een wijnwinkel te hebben gehad in het c
 
 De wijnen op deze site heb ik in principe gewoon op voorraad, zodat snelle levering kan plaatsvinden. Via de bestelknop kunt u mij een bericht sturen van uw wensen. Ik reageer zo snel mogelijk en stuur u per mail of whatsapp de factuur. De wijn wordt er gelijk achteraan verstuurd.
 
-# Besteleenheden/Verzendkosten
+# Bestelinfo
 
 Er is geen minimaal aantal te bestellen flessen. 
 
