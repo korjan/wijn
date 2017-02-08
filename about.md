@@ -6,6 +6,8 @@ permalink: /over-martijn/
 
 # Over Martijn
 
-Tijdens mijn studie Organisatiepsychologie rolde ik dankzij een bijbaantje de wijnhandel in. Voor een gerenommeerd importeur bracht ik wijnen rond, en hoe langer ik er werkte hoe meer ik over wijn leerde. Zodoende besloot ik na mijn studie dat er andere gebieden waren waar ik de mensheid beter kon dienen. Tuurlijk, over de psychologie niets dan goeds, maar voor echte inzichten kun je maar beter een lekker glas wijn drinken!
+Welkom op mijn website. Na bijna 10 jaar een wijnwinkel te hebben gehad in het centrum van Utrecht heb ik besloten op andere wijze verder te gaan. Een winkel is leuk, dat zeker. Maar het werken in mijn eentje én het werken op de zaterdagen begonnen wat zwaar op me te drukken. Vandaar nu verder met een website, en ook lever ik aan horeca en andere bedrijven en instellingen. Een groot deel van de wijnen op deze site importeer ik zelf, al dan niet samen met collega's.
 
-Zodoende heb ik ruim zes jaar bij voornoemde wijnimporteur gewerkt. Ik heb me daar bekwaamd in het proeven, inkopen, verkopen en natuurlijk sjouwen van wijn. Ook volgde ik met succes de opleiding tot vinoloog. Sinds mei 2007 heb ik mijn eigen winkel: Martijn de Kleuver Wijnen. Hiermee richt ik mij op particulieren, horeca en bedrijven. U bent van harte welkom!
+# Hoe werkt het?
+
+De wijnen op deze site heb ik in principe gewoon op voorraad, zodat snelle levering kan plaatsvinden. Via de bestelknop kunt u mij een bericht sturen van uw wensen. Ik reageer zo snel mogelijk en stuur u per mail of whatsapp de factuur. De wijn wordt er gelijk achteraan verstuurd.
