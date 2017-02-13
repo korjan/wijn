@@ -7,4 +7,4 @@ quote: "Krachtige stevie karakter is woon bij een eenvoudige hapje toch intens g
 ---
 <p class="typl8-drop-cap">omschrijving
 </p>€ 36,50
-tekst
+
