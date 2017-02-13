@@ -1,13 +1,22 @@
-{% if post.image %}
-  <img src="{{post.image | relative_url }}"/>
-{%endif %}
-<h2 class="typl8-delta">{{ post.title | escape }}</h2>
-{{post.content}}
+<div class="container">
+  {% if post.image %}
+  <div class="thumb">
+    <img src="{{post.image | relative_url }}"/>
+  </div>
+  {%endif %}
+  <div class="content">
+    <h2 class="typl8-delta">{{ post.title | escape }}</h2>
+    {{post.content}}
+
+  </div>
+</div>
 {% if  post.quote != "" %}
-<aside class="typl8-pull-quote">
-  <blockquote>
-    <p>{{post.quote}}</p>
-  </blockquote>
-</aside>
+<div class="quote clear-left">
+  <aside class="typl8-pull-quote">
+    <blockquote>
+      <p>{{post.quote}}</p>
+    </blockquote>
+  </aside>
+  <a href="{{ '/bestel'| relative_url }}">Bestel</a>
+</div>
 {% endif %}
-<a href="{{ '/bestel'| relative_url }}">Bestel</a>
