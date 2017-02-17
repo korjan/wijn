@@ -17,6 +17,9 @@
       <p>{{post.quote}}</p>
     </blockquote>
   </aside>
-  <a href="{{ '/bestel'| relative_url }}">Bestel</a>
 </div>
 {% endif %}
+  {% if post.prijs != "" %}
+  <span><strong>€{{post.prijs}}</strong></span>
+  {% endif %}
+  <a href="{{ '/bestel'| relative_url }}" class="button">Bestel</a>

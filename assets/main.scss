@@ -403,4 +403,20 @@ blockquote {
 
 .post-list > li {
     margin-bottom: 6rem;
+    clear: left;
+}
+
+.container {
+  overflow: auto;
+}
+
+.button {
+  border : 1px solid;
+  border-radius: 4px;
+  padding: .2rem .5rem;
+  margin-left: 1rem;
+}
+
+.button:hover {
+  background-color: #eee;
 }
