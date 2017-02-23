@@ -19,3 +19,5 @@ Bij kleinere bedragen worden verzendkosten in rekening gebracht. Vanaf 75 euro i
 Er is geen minimaal aantal te bestellen flessen.
 
 Mail info@wijnvanmartijn.nl of bel 06 48469638
+
+KvK: 30224233, BTWnr: NL194217814B01
