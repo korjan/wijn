@@ -14,7 +14,7 @@ De wijnen op deze site heb ik in principe gewoon op voorraad, zodat snelle lever
 
 ## Bestelinfo
 
-Bij kleinere bedragen worden verzendkosten in rekening gebracht. Vanaf 75 euro is verzending gratis. Daaronder kost verzending € 7,50. Mijn wijnen zijn echter zo lekker dat het geen kwaad kan er wat extra van in te slaan!
+Vanaf 75 euro is verzending gratis. Bij kleinere bedragen wordt € 7,50 verzendkosten in rekening gebracht. Mijn wijnen zijn echter zo lekker dat het geen kwaad kan er wat extra van in te slaan!
 
 Er is geen minimaal aantal te bestellen flessen.
 
