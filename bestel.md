@@ -7,4 +7,5 @@ permalink: /bestel/
 # Bestellen
 
 Stuur een mail naar info@wijnvanmartijn.nl of bel 06-48469638
-Er wordt nog gewerkt aan een efficient bestelsysteem!
+
+Op dit moment is er nog geen mogelijkheid direct af te rekenen. Per mail of Whatsapp ontvangt u na uw bestelling de factuur. De wijn wordt zo snel mogelijk daarna verstuurd.
