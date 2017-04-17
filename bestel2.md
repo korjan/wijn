@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bestellen
-permalink: /bestel/
+permalink: /bestel2/
 ---
 
 ## Bestellen
@@ -25,7 +25,10 @@ permalink: /bestel/
     <textarea name="_order"></textarea>
     </div>
     <div class="control">
-    <button type="submit">Bestellen</button>
+    <input type="hidden" name="_next" value="//www.wijnvanmartijn.nl/bedankt"/>
+    <input type="hidden" name="_subject" value="Nieuwe bestelling" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <button type="submit" class="button">Bestellen</button>
     </div>
 </form>
 
