@@ -4,29 +4,4 @@ title: Bestellen
 permalink: /bestel/
 ---
 
-## Bestellen
-
-<form action="https://formspree.io/korjanvanwieringen@gmail.com"
-      method="POST">
-      <div class="control">
-      <label for="name">Naam:</label>
-    <input type="text" name="name" class="input"/>
-    </div>
-    <div class="control">
-    <label for="_replyto">Email:</label>
-    <input type="email" name="_replyto"/>
-    </div>
-    <div class="control">
-    <label for="_phone">Telefoonnummer:</label>
-    <input type="phone" name="_phone"/>
-    </div>
-    <div class="control">
-    <label for="_order">Bestelling:</label>
-    <textarea name="_order"></textarea>
-    </div>
-    <div class="control">
-    <button type="submit">Bestellen</button>
-    </div>
-</form>
-
-of bel 06-48469638
+Stuur een mail naar info@wijnvanmartijn.nl of bel 06-48469638
