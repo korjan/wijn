@@ -410,13 +410,19 @@ blockquote {
   overflow: auto;
 }
 
-.button {
+.button, .input {
   border : 1px solid;
   border-radius: 4px;
   padding: .2rem .5rem;
-  margin-left: 1rem;
+  margin: .5rem;
+  font-size: 1.2rem;
 }
 
 .button:hover {
   background-color: #eee;
+}
+
+.textarea {
+  min-height: 200px;
+  min-width: 60vw;
 }

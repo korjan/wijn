@@ -1,8 +1,8 @@
 <div class="container">
   {% if post.image %}
-  <div class="thumb">
-    <img src="{{post.image | relative_url }}"/>
-  </div>
+    <div class="thumb">
+      <img src="{{post.image | relative_url }}"/>
+    </div>
   {%endif %}
   <div class="content">
     <h2 class="typl8-delta">{{ post.title | escape }}</h2>
@@ -10,16 +10,18 @@
 
   </div>
 </div>
-{% if  post.quote != "" %}
-<div class="quote clear-left">
-  <aside class="typl8-pull-quote">
-    <blockquote>
-      <p>{{post.quote}}</p>
-    </blockquote>
-  </aside>
-</div>
+{% if post.quote != "" %}
+  <div class="quote clear-left">
+    <aside class="typl8-pull-quote">
+      <blockquote>
+        <p>{{post.quote}}</p>
+      </blockquote>
+    </aside>
+  </div>
 {% endif %}
-  {% if post.prijs != "" %}
-  <span><strong>€{{post.prijs}}</strong></span>
-  {% endif %}
-  <a href="{{ '/bestel'| relative_url }}" class="button">Bestel</a>
+{% if post.prijs != "" %}
+  <span>
+    <strong>€{{post.prijs}}</strong>
+  </span>
+{% endif %}
+<a href="{{ '/bestel?wijn=' | relative_url }}{{post.title}}" class="button">Bestel</a>
