@@ -26,4 +26,5 @@ permalink: /bestel2/
 <br/>
 <p>of bel:
 <a href="tel:+31648469638">06-48469638</a>
+Of stuur mij een appje: <a href="whatsapp://send?phone=+31648469638&text=Hello%2C%20World!">whatsapp</a>
 </p>
