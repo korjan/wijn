@@ -24,4 +24,9 @@
     <strong>€{{post.prijs}}</strong>
   </span>
 {% endif %}
-<a href="{{ '/bestel?wijn=' | relative_url }}{{post.title}}" class="button">Bestel</a>
+<div>
+<strong>Bestel:</strong>
+<a href="whatsapp://send?phone=+31648469638&text=Ik%20wil%20graag%206%20flessen%20{{post.title| uri_escape}}%20bestellen" class="button">via whatsapp</a>
+<a href="mailto:info@wijnvanmartijn.nl" class="button">mail info@wijnvanmartijn.nl</a> of <a href="tel:+31648469638" class="button">bel 06-48469638</a>
+</div>
+
