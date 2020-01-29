@@ -24,4 +24,4 @@ Mail info@wijnvanmartijn.nl of bel 06 48469638
 
 ## Bedrijfsinformatie
 
-KvK: 30224233, BTWnr: NL194217814B01
+KvK: 30224233, BTWnr: NL002156946B72
