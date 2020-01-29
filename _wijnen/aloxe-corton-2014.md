@@ -3,7 +3,7 @@ layout: default
 title:  "Aloxe-Corton - Domaine Prin"
 soort: rood
 image: "assets/aloxe.jpg"
-prijs : "32,50,-"
+prijs : "35,50,-"
 quote : "Aloxe-Corton wordt natuurlijk van Pinot Noir gemaakt: een druif die qua verfijning en diepgang haar gelijke niet kent."
 ---
 
